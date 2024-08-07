@@ -1,2 +1,2 @@
 # Villager Rebalanced TP
- Ressourcepack that works with Villager Rebalanced DP
+ Resourcepack that works with Villager Rebalanced DP
